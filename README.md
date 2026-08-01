@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Dale 👋
 
-<!--
-**Dale0311/Dale0311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer from the Philippines 🇵🇭
 
-Here are some ideas to get you started:
+I build modern web applications with **Next.js**, **React**, and **TypeScript**. I enjoy creating clean user interfaces, learning backend technologies, and turning ideas into real products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently
+
+- 🚀 Building real-world projects
+- 📚 Learning Supabase, PostgreSQL & Drizzle ORM
+- 💼 Looking for Frontend / Full-Stack opportunities
+
+### Stack
+
+`Next.js` `React` `TypeScript`
+`Tailwind CSS` `Shadcn UI`
+`Supabase` `PostgreSQL`
+`Node.js` `Git`
+
+## Featured Projects
+
+- 🌐 Portfolio
+- 🏘️ Barangay Management System
+- 📦 More projects coming soon...
+
+---
+
+*"Always learning. Always building."*
+
+
